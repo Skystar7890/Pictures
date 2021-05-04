@@ -1,0 +1,21 @@
+body{
+    background-color:blanchedalmond;
+    text-align:center;
+}
+.img-section{
+    justify-content:center;
+}
+div{
+    margin:15px;
+}
+.section-style{
+    margin-right:25px;
+    margin-left:25px;
+    background-color:aliceblue;
+}
+.flex{
+    display:flex;
+}
+#finland, #tree, #vietnam, #birb{
+    width:350px;
+}
